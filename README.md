@@ -1,2 +1,2 @@
 # Detect-range-color
-Detect using range color (OpenCV)
+Using range color (OpenCV) for detection
